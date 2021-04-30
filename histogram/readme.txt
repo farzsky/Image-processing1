@@ -1,0 +1,2 @@
+This matlab code find the histogram of all the images in a directory and place the images with their histogram using subplot.
+This program also find the difference of one image with the directory.image 6 is a querry image which difference we find with all directory.
