@@ -1,0 +1,1 @@
+This matlab code place the logo on all corner of image in a directory.
